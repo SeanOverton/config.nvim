@@ -21,6 +21,9 @@ If you are experiencing issues, please make sure you have the latest versions.
 
 ### Install External Dependencies
 
+My addition to external dependencies:
+- typescript formatters: `npm i -g prettier && npm install -g @fsouza/prettierd`
+
 External Requirements:
 - Basic utils: `git`, `make`, `unzip`, C Compiler (`gcc`)
 - [ripgrep](https://github.com/BurntSushi/ripgrep#installation),
